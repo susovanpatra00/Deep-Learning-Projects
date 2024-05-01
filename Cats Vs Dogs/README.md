@@ -18,7 +18,7 @@ The goal of this project is to build a machine learning model capable of accurat
 
 ## Neural Network Architecture
 
-The CNN architecture used in this project consists of multiple convolutional and pooling layers followed by fully connected layers. The architecture is designed to learn hierarchical features from the input images, starting from low-level features (e.g., edges, textures) to high-level features (e.g., shapes, objects). The final layer uses a softmax activation function to output the probability of each image belonging to either the cat or dog class.
+The CNN architecture used in this project consists of multiple convolutional and pooling layers followed by fully connected layers. The architecture is designed to learn hierarchical features from the input images, starting from low-level features (e.g., edges, textures) to high-level features. The final layer uses a softmax activation function to output the probability of each image belonging to either the cat or dog class.
 
 ## Training
 
